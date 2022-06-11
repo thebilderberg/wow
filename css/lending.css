@@ -37,7 +37,7 @@ nav.hide{
 .iconBurger span, .iconBurger:after, .iconBurger:before {
     width: 100%;
     height: 1vh;
-    background-color: #010d01;
+    background-color: #cccccc;
     position: absolute;
     margin: 0 auto;
     text-align: center;
@@ -138,3 +138,66 @@ nav.hide{
     display: flex;
     justify-content: space-around;
 }
+
+
+.wallImg {
+    height: 150px;
+}
+
+.positionA {
+    position: absolute;
+    top: 5vh;
+    left: 50vh;
+}
+.positionB {
+    position: absolute;
+    top: 60vh;
+    left: 60vh;
+}
+.positionC {
+    position: absolute;
+    top: 10vh;
+    left: 150vh;
+}
+.positionD {
+    position: absolute;
+    top: 70vh;
+    left: 180vh;
+}
+.positionE {
+    position: absolute;
+    top: 40vh;
+    left: 5vh;
+}
+
+.airMax {
+
+}
+
+#air {
+    position: absolute;
+    top: 5vh;
+    left: 50vh;
+
+}
+#air2 {
+    position: absolute;
+    top: 60vh;
+    left: 60vh;
+}
+#air3 {
+    position: absolute;
+    top: 10vh;
+    left: 150vh;
+}
+#air4 {
+    position: absolute;
+    top: 70vh;
+    left: 180vh;
+}
+#air5 {
+    position: absolute;
+    top: 40vh;
+    left: 5vh;
+}
+
